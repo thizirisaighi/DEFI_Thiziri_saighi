@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M2 DEFI 2023 - Data Visualisation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #0366d6; /* Couleur GitHub */
+        }
+
+        p {
+            color: #586069; /* Couleur texte secondaire GitHub */
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        footer {
+            margin-top: 30px;
+            border-top: 1px solid #ddd;
+            padding-top: 10px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>M2 DEFI 2023 - Data Visualisation</h1>
+
+    <h2>Devoir de M2 DEFI - Data Visualisation</h2>
+
+    <h2>Présentation du sujet</h2>
+    <p>Texte de présentation du sujet...</p>
+
+    <h2>Jeu de données</h2>
+    <p>Informations sur le jeu de données utilisé...</p>
+
+    <h2>Sanity check</h2>
+    <p>Explication du sanity check réalisé...</p>
+
+    <h2>OpenRefine & WikiData</h2>
+    <p>Utilisation d'OpenRefine et WikiData...</p>
+
+    <h2>Visualisations</h2>
+
+    <h3>Première visualisation</h3>
+    <p>Description de la première visualisation...</p>
+
+    <h3>Deuxième visualisation</h3>
+    <p>Description de la deuxième visualisation...</p>
+
+    <h3>Troisième visualisation</h3>
+    <p>Description de la troisième visualisation...</p>
+
+    <h2>Conclusion</h2>
+    <p>Conclusion générale du devoir...</p>
+
+    <footer>
+        <hr>
+        <p>Devoir réalisé dans le cadre du cours de datavisualisation | <a href="https://github.com/VotreNomUtilisateur/M2_DEFI_2023_Guerin_DataVisualisation">GitHub</a></p>
+    </footer>
+</body>
+</html>
